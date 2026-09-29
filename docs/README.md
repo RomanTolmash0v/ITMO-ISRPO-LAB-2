@@ -75,6 +75,9 @@ python3
 ## История изменения проекта
 
 1d17a5f (HEAD -> master) add README file
+
 5687988 add documentation
+
 5fc132a add function comment in square.py
+
 6569ebd add function comment in circle.py
