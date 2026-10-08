@@ -129,7 +129,14 @@ python3
 
 ## История изменения проекта
 
-1d17a5f (HEAD -> master) add README file
+a120804 (HEAD -> main) Add 2 files with docstring from first labwork. Make documentation with pdoc.
+
+5dde16a Lab is done.
+
+1d17a5f add README file
+
 5687988 add documentation
+
 5fc132a add function comment in square.py
+
 6569ebd add function comment in circle.py
