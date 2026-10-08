@@ -7,6 +7,10 @@ def area(a):
         
         Возвращаемое значение:
             area (float): площадь квадрата с заданной стороной
+        
+        Пример:
+            >>> area(5)
+            25
     '''
     area = a * a
     return area
@@ -21,6 +25,10 @@ def perimeter(a):
             
         Возвращаемое значение:
             perimeter (float): периметр квадрата с заданной стороной
+        
+        Пример:
+            >>> perimeter(6)
+            24
     '''
     perimeter = 4 * a
     return perimeter
